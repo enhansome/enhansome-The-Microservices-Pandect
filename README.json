@@ -1,0 +1,843 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ cortex",
+          "description": "multi-tenant, long term Prometheus [GitHub, 4910 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T12:47:21Z",
+            "owner": "cortexproject",
+            "repo": "cortex",
+            "stars": 5847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ kubewatch",
+          "description": "Watch k8s events and trigger Handlers [GitHub, 2416 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-09-17T08:58:53Z",
+            "owner": "vmware-archive",
+            "repo": "kubewatch",
+            "stars": 2424
+          }
+        }
+      ],
+      "title": "General Monitoring"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CI/CD"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Infracost",
+          "description": "Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 8185 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T13:26:22Z",
+            "owner": "infracost",
+            "repo": "infracost",
+            "stars": 12443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Komiser",
+          "description": "Multi-cloud environment inspector for costs and security [GitHub, 2866 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-12T18:16:14Z",
+            "owner": "mlabouardy",
+            "repo": "komiser",
+            "stars": 4137
+          }
+        }
+      ],
+      "title": "General Tools"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Databases and Operators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Zalando Operator",
+          "description": "[GitHub, 2907 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T14:25:46Z",
+            "owner": "zalando",
+            "repo": "postgres-operator",
+            "stars": 5222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ CrunchyData Operator",
+          "description": "[GitHub, 3023 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T00:06:59Z",
+            "owner": "CrunchyData",
+            "repo": "postgres-operator",
+            "stars": 4437
+          }
+        }
+      ],
+      "title": "PostgreSQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Druid",
+          "description": "[GitHub, 12190 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:47:39Z",
+            "owner": "apache",
+            "repo": "druid",
+            "stars": 14042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Apache Pinot",
+          "description": "/ Pinot on Github [GitHub, 4284 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:18:55Z",
+            "owner": "apache",
+            "repo": "pinot",
+            "stars": 6124
+          }
+        }
+      ],
+      "title": "OLAP - Online Analytical Processing"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ serverless examples",
+          "description": "collection of boilerplates and examples of serverless architectures [GitHub, 10499 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T15:26:41Z",
+            "owner": "serverless",
+            "repo": "examples",
+            "stars": 11515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Wild Rydes Serverless Workshops",
+          "description": "labs to set up serverless applications on AWS [GitHub, 3825 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-07-29T18:03:00Z",
+            "owner": "aws-samples",
+            "repo": "aws-serverless-workshops",
+            "stars": 4261
+          }
+        }
+      ],
+      "title": "Examples and Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ serverless",
+          "description": "Serverless Framework using AWS Lambda, Azure Functions, Google CloudFunctions [GitHub, 43750 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T15:28:21Z",
+            "owner": "serverless",
+            "repo": "serverless",
+            "stars": 46920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ OpenFaaS",
+          "description": "Serverless Functions Made Simple [GitHub, 22320 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-02T09:09:13Z",
+            "owner": "openfaas",
+            "repo": "faas",
+            "stars": 26221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Dapr",
+          "description": "portable, serverless, event-driven runtime for stateless and stateful microservices [GitHub, 19789 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:17:04Z",
+            "owner": "dapr",
+            "repo": "dapr",
+            "stars": 26020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Chalice",
+          "description": "Python Serverless Microframework for AWS [GitHub, 9297 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:00Z",
+            "owner": "aws",
+            "repo": "chalice",
+            "stars": 11065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Up",
+          "description": "deploy infinitely scalable serverless apps, apis, and sites [GitHub, 8638 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-15T07:24:56Z",
+            "owner": "apex",
+            "repo": "up",
+            "stars": 8793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Nuclio",
+          "description": "High-Performance Serverless event and data processing platform [GitHub, 4649 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:01:27Z",
+            "owner": "nuclio",
+            "repo": "nuclio",
+            "stars": 5745
+          }
+        }
+      ],
+      "title": "Tools & Frameworks"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ tfsec",
+          "description": "Security scanner for your Terraform code [GitHub, 5315 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-25T08:06:52Z",
+            "owner": "aquasecurity",
+            "repo": "tfsec",
+            "stars": 7026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Komiser",
+          "description": "Multi-cloud environment inspector for costs and security [GitHub, 2866 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-12T18:16:14Z",
+            "owner": "mlabouardy",
+            "repo": "komiser",
+            "stars": 4137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ kubesploit",
+          "description": "Cross-platform post-exploitation HTTP/2 Command & Control server [GitHub, 940 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-02-03T12:03:19Z",
+            "owner": "cyberark",
+            "repo": "kubesploit",
+            "stars": 1226
+          }
+        }
+      ],
+      "title": "General Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Prowler",
+          "description": "security tool to perform AWS security best practices assessments [GitHub, 6957 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:21:37Z",
+            "owner": "prowler-cloud",
+            "repo": "prowler",
+            "stars": 14577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ ScoutSuite",
+          "description": "Multi-Cloud Security Auditing Tool [GitHub, 6957 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:21:37Z",
+            "owner": "prowler-cloud",
+            "repo": "prowler",
+            "stars": 14577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ kube-bench",
+          "description": "Checks usage of security best practices as defined in the CIS Kubernetes Benchmark [GitHub, 5306 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:35:30Z",
+            "owner": "aquasecurity",
+            "repo": "kube-bench",
+            "stars": 8139
+          }
+        }
+      ],
+      "title": "Security Audit Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ SOPS: Secrets OPerationS",
+          "description": "Simple and flexible tool for managing secrets on any platform [GitHub, 11257 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T11:27:27Z",
+            "owner": "getsops",
+            "repo": "sops",
+            "stars": 22788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ sealed-secrets",
+          "description": "A Kubernetes controller and tool for one-way encrypted Secrets [GitHub, 5597 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T08:13:49Z",
+            "owner": "bitnami",
+            "repo": "sealed-secrets",
+            "stars": 9238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ aws-vault",
+          "description": "securely store and access AWS credentials in development environments [GitHub, 6927 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-30T11:28:54Z",
+            "owner": "99designs",
+            "repo": "aws-vault",
+            "stars": 8980
+          }
+        }
+      ],
+      "title": "Secrets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Kong",
+          "description": "Cloud-Native API Gateway [GitHub, 33318 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-04T09:27:18Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 43970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Dex",
+          "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider [GitHub, 7536 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T04:03:20Z",
+            "owner": "dexidp",
+            "repo": "dex",
+            "stars": 11034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Grant",
+          "description": "OAuth Proxy [GitHub, 3743 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-04T17:27:33Z",
+            "owner": "simov",
+            "repo": "grant",
+            "stars": 4171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Gloo Edge",
+          "description": "Kubernetes-native API Gateway Built on Envoy [GitHub, 3601 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:33:20Z",
+            "owner": "solo-io",
+            "repo": "gloo",
+            "stars": 169
+          }
+        }
+      ],
+      "title": "Auth, API Gateways etc."
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ PENTESTING-BIBLE",
+          "description": "Learn ethical hacking [GitHub, 11035 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-03T07:40:28Z",
+            "owner": "blaCCkHatHacEEkr",
+            "repo": "PENTESTING-BIBLE",
+            "stars": 13926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Awesome WAF",
+          "description": "Everything about web-application firewalls (WAF) [GitHub, 4759 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-26T04:59:18Z",
+            "owner": "0xInfection",
+            "repo": "Awesome-WAF",
+            "stars": 7576
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Kubernetes Guide",
+          "description": "Kubernetes clusters for the hobbyist [GitHub, 5287 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-21T14:37:01Z",
+            "owner": "hobby-kube",
+            "repo": "guide",
+            "stars": 5656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Kubernetes Workshop",
+          "description": "Gentle introduction to Kubernetes with more than just the basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-28T17:06:24Z",
+            "owner": "eon01",
+            "repo": "kubernetes-workshop",
+            "stars": 3228
+          }
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ DevOps Exercises",
+          "description": "questions and exercises on technical topics related to DevOps and SRE [GitHub, 33396 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-27T14:22:30Z",
+            "owner": "bregman-arie",
+            "repo": "devops-exercises",
+            "stars": 83991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ DevOps Guide",
+          "description": "from basic to advanced with Interview Questions and Notes [GitHub, 5423 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-22T21:30:07Z",
+            "owner": "Tikam02",
+            "repo": "DevOps-Guide",
+            "stars": 9298
+          }
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Terraformer",
+          "description": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform) [GitHub, 8970 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-03-16T20:12:11Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "terraformer",
+            "stars": 14563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Checkov",
+          "description": "static code analysis tool for infrastructure-as-code [GitHub, 4890 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:17:26Z",
+            "owner": "bridgecrewio",
+            "repo": "checkov",
+            "stars": 8932
+          }
+        }
+      ],
+      "title": "Additional Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Ansible for DevOps examples",
+          "description": "[GitHub, 6378 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T06:03:59Z",
+            "owner": "geerlingguy",
+            "repo": "ansible-for-devops",
+            "stars": 9852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Ansible for Kubernetes Examples",
+          "description": "[GitHub, 581 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-08-03T16:55:23Z",
+            "owner": "geerlingguy",
+            "repo": "ansible-for-kubernetes",
+            "stars": 730
+          }
+        }
+      ],
+      "title": "Examples and Learning Resources"
+    },
+    {
+      "description": "🔙 Back to the Table of Contents",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Apache Flink",
+          "description": "stream processing framework [GitHub, 20121 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T15:33:40Z",
+            "owner": "apache",
+            "repo": "flink",
+            "stars": 26261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Apache Beam",
+          "description": "unified programming model for Batch and Streaming [GitHub, 6012 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T23:17:29Z",
+            "owner": "apache",
+            "repo": "beam",
+            "stars": 8639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Apache Storm",
+          "description": "/ Apache Storm on GitHub - distributed realtime computation system [GitHub, 6403 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T05:40:22Z",
+            "owner": "apache",
+            "repo": "storm",
+            "stars": 6696
+          }
+        }
+      ],
+      "title": "Streaming Frameworks / Engines"
+    },
+    {
+      "description": "Load Shedding is used to prevent your microservices from an outage by reducing non-essential requests.",
+      "items": [],
+      "title": "Load Shedding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ LocalStack",
+          "description": "fully functional local AWS cloud stack [GitHub, 44.6k stars]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-23T08:52:01Z",
+            "owner": "localstack",
+            "repo": "localstack",
+            "stars": 65148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Moto",
+          "description": "easily mock out tests based on AWS infrastructure [GitHub, 6186 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:27:24Z",
+            "owner": "getmoto",
+            "repo": "moto",
+            "stars": 8613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Terratest",
+          "description": "Go library to write automated tests for your infrastructure code [GitHub, 6494 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T04:24:48Z",
+            "owner": "gruntwork-io",
+            "repo": "terratest",
+            "stars": 7943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "⭐ Serverless Offline",
+          "description": "Emulate AWS λ and API Gateway locally [GitHub, 4747 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T15:07:48Z",
+            "owner": "dherault",
+            "repo": "serverless-offline",
+            "stars": 5260
+          }
+        }
+      ],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License CC0"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Attributions"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:05.792Z",
+    "original_repository": "ivan-bilan/The-Microservices-Pandect",
+    "original_repository_sha": "23a3330b79b96c4251b4ede2bff3eaec554b5d33",
+    "enhanced_repository": "enhansome/enhansome-The-Microservices-Pandect",
+    "enhanced_repository_description": null,
+    "title": "Awesome The Microservices Pandect with stars"
+  }
+}
