@@ -1,22 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Table of Contents"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -25,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67793333,
             "language": "Go",
             "last_commit": "2026-08-18T13:32:07Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5850
+            "stars": 5851
           }
         },
         {
@@ -39,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 63135453,
             "language": "Go",
             "last_commit": "2022-09-17T08:58:53Z",
             "owner": "vmware-archive",
@@ -50,139 +37,130 @@
       "title": "General Monitoring"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ Infracost",
+              "description": "Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 8185 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274625369,
+                "language": "Go",
+                "last_commit": "2026-08-18T07:05:58Z",
+                "owner": "infracost",
+                "repo": "infracost",
+                "stars": 12469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Komiser",
+              "description": "Multi-cloud environment inspector for costs and security [GitHub, 2866 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121289901,
+                "language": "Go",
+                "last_commit": "2026-04-12T18:16:14Z",
+                "owner": "mlabouardy",
+                "repo": "komiser",
+                "stars": 4138
+              }
+            }
+          ],
+          "description": "🔙 Back to the Table of Contents",
+          "node_type": "group",
+          "title": "General Tools"
+        }
+      ],
       "title": "CI/CD"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "⭐ Infracost",
-          "description": "Cloud cost estimates for Terraform in your CLI and pull requests [GitHub, 8185 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:05:58Z",
-            "owner": "infracost",
-            "repo": "infracost",
-            "stars": 12465
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ Zalando Operator",
+              "description": "[GitHub, 2907 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91074692,
+                "language": "Go",
+                "last_commit": "2026-08-19T07:46:32Z",
+                "owner": "zalando",
+                "repo": "postgres-operator",
+                "stars": 5225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ CrunchyData Operator",
+              "description": "[GitHub, 3023 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83363132,
+                "language": "Go",
+                "last_commit": "2026-08-19T00:06:26Z",
+                "owner": "CrunchyData",
+                "repo": "postgres-operator",
+                "stars": 4441
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PostgreSQL"
         },
         {
-          "node_type": "item",
-          "title": "⭐ Komiser",
-          "description": "Multi-cloud environment inspector for costs and security [GitHub, 2866 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-12T18:16:14Z",
-            "owner": "mlabouardy",
-            "repo": "komiser",
-            "stars": 4138
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ Druid",
+              "description": "[GitHub, 12190 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6358188,
+                "language": "Java",
+                "last_commit": "2026-08-19T05:30:56Z",
+                "owner": "apache",
+                "repo": "druid",
+                "stars": 14044
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Apache Pinot",
+              "description": "/ Pinot on Github [GitHub, 4284 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19961085,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:51:09Z",
+                "owner": "apache",
+                "repo": "pinot",
+                "stars": 6122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OLAP - Online Analytical Processing"
         }
       ],
-      "title": "General Tools"
-    },
-    {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Databases and Operators"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "⭐ Zalando Operator",
-          "description": "[GitHub, 2907 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T15:59:30Z",
-            "owner": "zalando",
-            "repo": "postgres-operator",
-            "stars": 5225
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⭐ CrunchyData Operator",
-          "description": "[GitHub, 3023 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T18:34:26Z",
-            "owner": "CrunchyData",
-            "repo": "postgres-operator",
-            "stars": 4439
-          }
-        }
-      ],
-      "title": "PostgreSQL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "⭐ Druid",
-          "description": "[GitHub, 12190 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T11:47:34Z",
-            "owner": "apache",
-            "repo": "druid",
-            "stars": 14042
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⭐ Apache Pinot",
-          "description": "/ Pinot on Github [GitHub, 4284 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T18:49:03Z",
-            "owner": "apache",
-            "repo": "pinot",
-            "stars": 6122
-          }
-        }
-      ],
-      "title": "OLAP - Online Analytical Processing"
-    },
-    {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -191,11 +169,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73526083,
             "language": "JavaScript",
             "last_commit": "2026-08-10T15:26:41Z",
             "owner": "serverless",
             "repo": "examples",
-            "stars": 11516
+            "stars": 11515
           }
         },
         {
@@ -205,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 74520124,
             "language": "JavaScript",
             "last_commit": "2024-07-29T18:03:00Z",
             "owner": "aws-samples",
@@ -216,7 +196,7 @@
       "title": "Examples and Learning Resources"
     },
     {
-      "description": "",
+      "description": "🔙 Back to the Table of Contents",
       "items": [
         {
           "node_type": "item",
@@ -225,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34302698,
             "language": "JavaScript",
             "last_commit": "2026-08-12T15:28:21Z",
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46918
+            "stars": 46917
           }
         },
         {
@@ -239,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77144337,
             "language": "Go",
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
@@ -253,11 +235,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192632000,
             "language": "Go",
-            "last_commit": "2026-08-18T14:20:51Z",
+            "last_commit": "2026-08-18T21:39:15Z",
             "owner": "dapr",
             "repo": "dapr",
-            "stars": 26022
+            "stars": 26024
           }
         },
         {
@@ -267,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59868262,
             "language": "Python",
             "last_commit": "2026-08-12T15:03:00Z",
             "owner": "aws",
@@ -281,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94949504,
             "language": "Go",
             "last_commit": "2024-03-15T07:24:56Z",
             "owner": "apex",
@@ -295,23 +280,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91797088,
             "language": "Go",
-            "last_commit": "2026-08-18T10:36:14Z",
+            "last_commit": "2026-08-19T10:31:30Z",
             "owner": "nuclio",
             "repo": "nuclio",
-            "stars": 5745
+            "stars": 5746
           }
         }
       ],
       "title": "Tools & Frameworks"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -320,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173785481,
             "language": "Go",
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
@@ -334,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121289901,
             "language": "Go",
             "last_commit": "2026-04-12T18:16:14Z",
             "owner": "mlabouardy",
@@ -348,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337456688,
             "language": "Go",
             "last_commit": "2025-02-03T12:03:19Z",
             "owner": "cyberark",
@@ -359,7 +343,7 @@
       "title": "General Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -368,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
+            "last_commit": "2026-08-19T11:59:12Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14612
+            "stars": 14619
           }
         },
         {
@@ -382,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-18T16:02:23Z",
+            "last_commit": "2026-08-19T11:59:12Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14612
+            "stars": 14619
           }
         },
         {
@@ -396,18 +382,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94779471,
             "language": "Go",
             "last_commit": "2026-08-18T08:46:23Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8145
+            "stars": 8146
           }
         }
       ],
       "title": "Security Audit Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -416,11 +403,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40684033,
             "language": "Go",
             "last_commit": "2026-08-17T17:56:38Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22850
+            "stars": 22857
           }
         },
         {
@@ -430,11 +418,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92702519,
             "language": "Go",
-            "last_commit": "2026-08-18T09:58:52Z",
+            "last_commit": "2026-08-19T10:51:48Z",
             "owner": "bitnami",
             "repo": "sealed-secrets",
-            "stars": 9251
+            "stars": 9250
           }
         },
         {
@@ -444,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40539602,
             "language": "Go",
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
@@ -455,7 +445,7 @@
       "title": "Secrets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -464,11 +454,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26783295,
             "language": "Lua",
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 43996
+            "stars": 44002
           }
         },
         {
@@ -478,11 +469,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40916314,
             "language": "Go",
             "last_commit": "2026-08-17T04:04:46Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11048
+            "stars": 11050
           }
         },
         {
@@ -492,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25528021,
             "language": "JavaScript",
             "last_commit": "2025-02-04T17:27:33Z",
             "owner": "simov",
@@ -506,8 +499,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 885037479,
             "language": "Go",
-            "last_commit": "2026-08-18T16:21:58Z",
+            "last_commit": "2026-08-18T21:48:49Z",
             "owner": "solo-io",
             "repo": "gloo",
             "stars": 169
@@ -517,7 +511,7 @@
       "title": "Auth, API Gateways etc."
     },
     {
-      "description": "",
+      "description": "🔙 Back to the Table of Contents",
       "items": [
         {
           "node_type": "item",
@@ -526,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194262275,
             "language": null,
             "last_commit": "2023-04-03T07:40:28Z",
             "owner": "blaCCkHatHacEEkr",
@@ -540,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 164564630,
             "language": "Python",
             "last_commit": "2026-03-26T04:59:18Z",
             "owner": "0xInfection",
@@ -551,12 +547,7 @@
       "title": "Other"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -565,11 +556,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88660234,
             "language": null,
             "last_commit": "2023-09-21T14:37:01Z",
             "owner": "hobby-kube",
             "repo": "guide",
-            "stars": 5656
+            "stars": 5657
           }
         },
         {
@@ -579,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202927395,
             "language": "Python",
             "last_commit": "2023-02-28T17:06:24Z",
             "owner": "eon01",
@@ -590,7 +583,7 @@
       "title": "Kubernetes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -599,11 +592,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212639071,
             "language": "Python",
             "last_commit": "2025-12-27T14:22:30Z",
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84143
+            "stars": 84151
           }
         },
         {
@@ -613,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215599579,
             "language": "HTML",
             "last_commit": "2026-05-22T21:30:07Z",
             "owner": "Tikam02",
@@ -624,12 +619,7 @@
       "title": "DevOps"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -638,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 184490584,
             "language": "Go",
             "last_commit": "2026-03-16T20:12:11Z",
             "owner": "GoogleCloudPlatform",
@@ -652,18 +643,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-18T13:10:05Z",
+            "last_commit": "2026-08-19T11:43:40Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8953
+            "stars": 8954
           }
         }
       ],
       "title": "Additional Tooling"
     },
     {
-      "description": "",
+      "description": "🔙 Back to the Table of Contents",
       "items": [
         {
           "node_type": "item",
@@ -672,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19130362,
             "language": "Python",
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9860
+            "stars": 9861
           }
         },
         {
@@ -686,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151653509,
             "language": "Shell",
             "last_commit": "2024-08-03T16:55:23Z",
             "owner": "geerlingguy",
@@ -697,12 +691,7 @@
       "title": "Examples and Learning Resources"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
-      "items": [],
-      "title": ""
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -711,11 +700,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20587599,
             "language": "Java",
-            "last_commit": "2026-08-18T17:50:32Z",
+            "last_commit": "2026-08-19T01:45:14Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26269
+            "stars": 26272
           }
         },
         {
@@ -725,8 +715,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50904245,
             "language": "Java",
-            "last_commit": "2026-08-18T17:50:35Z",
+            "last_commit": "2026-08-19T12:11:57Z",
             "owner": "apache",
             "repo": "beam",
             "stars": 8646
@@ -739,8 +730,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14135470,
             "language": "Java",
-            "last_commit": "2026-08-11T05:40:22Z",
+            "last_commit": "2026-08-19T11:55:21Z",
             "owner": "apache",
             "repo": "storm",
             "stars": 6698
@@ -750,91 +742,83 @@
       "title": "Streaming Frameworks / Engines"
     },
     {
-      "description": "Load Shedding is used to prevent your microservices from an outage by reducing non-essential requests.",
-      "items": [],
-      "title": "Load Shedding"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Testing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "⭐ LocalStack",
-          "description": "fully functional local AWS cloud stack [GitHub, 44.6k stars]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-03-23T08:52:01Z",
-            "owner": "localstack",
-            "repo": "localstack",
-            "stars": 65146
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⭐ Moto",
-          "description": "easily mock out tests based on AWS infrastructure [GitHub, 6186 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T08:34:17Z",
-            "owner": "getmoto",
-            "repo": "moto",
-            "stars": 8618
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⭐ Terratest",
-          "description": "Go library to write automated tests for your infrastructure code [GitHub, 6494 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T04:26:03Z",
-            "owner": "gruntwork-io",
-            "repo": "terratest",
-            "stars": 7942
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "⭐ Serverless Offline",
-          "description": "Emulate AWS λ and API Gateway locally [GitHub, 4747 stars]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-14T14:45:25Z",
-            "owner": "dherault",
-            "repo": "serverless-offline",
-            "stars": 5260
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ LocalStack",
+              "description": "fully functional local AWS cloud stack [GitHub, 44.6k stars]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71948498,
+                "language": "Python",
+                "last_commit": "2026-03-23T08:52:01Z",
+                "owner": "localstack",
+                "repo": "localstack",
+                "stars": 65147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Moto",
+              "description": "easily mock out tests based on AWS infrastructure [GitHub, 6186 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8277372,
+                "language": "Python",
+                "last_commit": "2026-08-15T08:34:17Z",
+                "owner": "getmoto",
+                "repo": "moto",
+                "stars": 8620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Terratest",
+              "description": "Go library to write automated tests for your infrastructure code [GitHub, 6494 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53174289,
+                "language": "Go",
+                "last_commit": "2026-08-13T04:26:03Z",
+                "owner": "gruntwork-io",
+                "repo": "terratest",
+                "stars": 7942
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "⭐ Serverless Offline",
+              "description": "Emulate AWS λ and API Gateway locally [GitHub, 4747 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51905436,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T14:45:25Z",
+                "owner": "dherault",
+                "repo": "serverless-offline",
+                "stars": 5260
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tooling"
         }
       ],
-      "title": "Tooling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License CC0"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Attributions"
+      "title": "Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:52:57.208Z",
+    "last_updated": "2026-08-19T12:13:16.868Z",
     "original_repository": "ivan-bilan/The-Microservices-Pandect",
+    "original_repository_id": 368782390,
     "original_repository_sha": "23a3330b79b96c4251b4ede2bff3eaec554b5d33",
     "enhanced_repository": "enhansome/enhansome-The-Microservices-Pandect",
     "enhanced_repository_description": null,
