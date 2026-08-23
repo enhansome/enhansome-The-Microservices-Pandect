@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T17:50:56Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5851
+            "stars": 5852
           }
         },
         {
@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-21T11:45:44Z",
                 "owner": "infracost",
                 "repo": "infracost",
-                "stars": 12482
+                "stars": 12486
               }
             },
             {
@@ -96,7 +96,7 @@
                 "last_commit": "2026-08-20T17:28:42Z",
                 "owner": "zalando",
                 "repo": "postgres-operator",
-                "stars": 5225
+                "stars": 5226
               }
             },
             {
@@ -130,7 +130,7 @@
                 "archived": false,
                 "id": 6358188,
                 "language": "Java",
-                "last_commit": "2026-08-22T03:07:20Z",
+                "last_commit": "2026-08-23T06:06:35Z",
                 "owner": "apache",
                 "repo": "druid",
                 "stars": 14045
@@ -145,10 +145,10 @@
                 "archived": false,
                 "id": 19961085,
                 "language": "Java",
-                "last_commit": "2026-08-22T01:34:13Z",
+                "last_commit": "2026-08-23T03:50:49Z",
                 "owner": "apache",
                 "repo": "pinot",
-                "stars": 6124
+                "stars": 6125
               }
             }
           ],
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-20T16:14:13Z",
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46918
+            "stars": 46917
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26228
+            "stars": 26229
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-08-21T20:19:47Z",
             "owner": "dapr",
             "repo": "dapr",
-            "stars": 26026
+            "stars": 26028
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
             "repo": "tfsec",
-            "stars": 7030
+            "stars": 7031
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T18:43:00Z",
+            "last_commit": "2026-08-22T20:33:52Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14649
+            "stars": 14657
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T18:43:00Z",
+            "last_commit": "2026-08-22T20:33:52Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14649
+            "stars": 14657
           }
         },
         {
@@ -408,7 +408,7 @@
             "last_commit": "2026-08-17T17:56:38Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22892
+            "stars": 22899
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44021
+            "stars": 44027
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2025-12-27T14:22:30Z",
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84208
+            "stars": 84234
           }
         },
         {
@@ -645,10 +645,10 @@
             "archived": false,
             "id": 224386599,
             "language": "Python",
-            "last_commit": "2026-08-20T23:05:22Z",
+            "last_commit": "2026-08-23T09:51:59Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8968
+            "stars": 8970
           }
         }
       ],
@@ -669,7 +669,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9864
+            "stars": 9870
           }
         },
         {
@@ -702,10 +702,10 @@
             "archived": false,
             "id": 20587599,
             "language": "Java",
-            "last_commit": "2026-08-22T16:48:55Z",
+            "last_commit": "2026-08-23T14:18:59Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26277
+            "stars": 26280
           }
         },
         {
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 50904245,
             "language": "Java",
-            "last_commit": "2026-08-22T18:34:31Z",
+            "last_commit": "2026-08-23T11:43:07Z",
             "owner": "apache",
             "repo": "beam",
             "stars": 8647
@@ -732,7 +732,7 @@
             "archived": false,
             "id": 14135470,
             "language": "Java",
-            "last_commit": "2026-08-22T18:45:01Z",
+            "last_commit": "2026-08-23T18:21:11Z",
             "owner": "apache",
             "repo": "storm",
             "stars": 6698
@@ -758,7 +758,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65144
+                "stars": 65149
               }
             },
             {
@@ -770,10 +770,10 @@
                 "archived": false,
                 "id": 8277372,
                 "language": "Python",
-                "last_commit": "2026-08-22T18:43:02Z",
+                "last_commit": "2026-08-22T18:51:50Z",
                 "owner": "getmoto",
                 "repo": "moto",
-                "stars": 8621
+                "stars": 8622
               }
             },
             {
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:45:33.859Z",
+    "last_updated": "2026-08-23T18:44:17.896Z",
     "original_repository": "ivan-bilan/The-Microservices-Pandect",
     "original_repository_id": 368782390,
     "original_repository_sha": "23a3330b79b96c4251b4ede2bff3eaec554b5d33",
