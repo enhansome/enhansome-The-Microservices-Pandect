@@ -5,6 +5,375 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Essential Reading",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "General Resources",
+          "description": ", Platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podcasts",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YouTube Channels",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Observability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alerting",
+          "description": ", Visualizing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "General Tools",
+          "description": ", CI/CD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cost Optimization",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stateful Workloads",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serverless",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tools and Frameworks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": ", DevOps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infrastructure as Code",
+          "description": "-",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Topics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streaming",
+          "description": ", Testing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ How they AWS",
+          "description": "curated collection of resources on how organizations use AWS [GitHub, 574 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339769186,
+            "language": "JavaScript",
+            "last_commit": "2023-10-10T14:20:05Z",
+            "owner": "upgundecha",
+            "repo": "howtheyaws",
+            "stars": 678
+          }
+        }
+      ],
+      "title": "Stories from the Industry"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Containers Roadmap",
+          "description": "public roadmap for AWS container services [GitHub, 4684 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159005377,
+            "language": "Shell",
+            "last_commit": "2025-03-25T18:13:16Z",
+            "owner": "aws",
+            "repo": "containers-roadmap",
+            "stars": 5356
+          }
+        }
+      ],
+      "title": "Roadmaps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ CNCF Projects App",
+          "description": "project example created with only CNCF graduated projects [GitHub, 143 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 321487750,
+            "language": "C#",
+            "last_commit": "2024-06-05T00:14:10Z",
+            "owner": "Azure",
+            "repo": "cloud-native-app",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Project Examples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "⭐ cortex",
           "description": "multi-tenant, long term Prometheus [GitHub, 4910 stars]",
           "children": [],
@@ -12,10 +381,10 @@
             "archived": false,
             "id": 67793333,
             "language": "Go",
-            "last_commit": "2026-08-22T17:50:56Z",
+            "last_commit": "2026-08-24T14:39:45Z",
             "owner": "cortexproject",
             "repo": "cortex",
-            "stars": 5852
+            "stars": 5853
           }
         },
         {
@@ -40,6 +409,214 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "⭐ StreamAlert",
+          "description": "serverless, real-time data analysis framework for alerting [GitHub, 2732 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79683936,
+            "language": "Python",
+            "last_commit": "2023-10-23T17:15:34Z",
+            "owner": "airbnb",
+            "repo": "streamalert",
+            "stars": 2889
+          }
+        }
+      ],
+      "title": "Alerting"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ loki",
+          "description": "horizontally-scalable, highly-available, multi-tenant log aggregation system [GitHub, 17580 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129717717,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:09:04Z",
+            "owner": "grafana",
+            "repo": "loki",
+            "stars": 28778
+          }
+        }
+      ],
+      "title": "Logging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ grafana",
+          "description": "observability and data visualization platform [GitHub, 52288 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15111821,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:43:31Z",
+            "owner": "grafana",
+            "repo": "grafana",
+            "stars": 76387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Visualizing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ kubespray",
+          "description": "Deploy a Production Ready Kubernetes Cluster [GitHub, 13125 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43613404,
+            "language": "Jinja",
+            "last_commit": "2026-08-21T10:07:16Z",
+            "owner": "kubernetes-sigs",
+            "repo": "kubespray",
+            "stars": 18699
+          }
+        }
+      ],
+      "title": "General Deployment Tools"
+    },
+    {
+      "description": "There are industry proven strategies to make sure your deploys don't cause any downtime.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ flagger",
+              "description": "Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3943 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149515625,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:28:14Z",
+                "owner": "fluxcd",
+                "repo": "flagger",
+                "stars": 5394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools:"
+        }
+      ],
+      "title": "Zero Downtime Deploys"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ flux",
+              "description": "The GitOps Kubernetes operator [GitHub, 6951 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 62799996,
+                "language": "Go",
+                "last_commit": "2022-11-01T15:16:50Z",
+                "owner": "fluxcd",
+                "repo": "flux",
+                "stars": 6854
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🔙 Back to the Table of Contents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368782390,
+                "language": "Python",
+                "last_commit": "2022-12-05T08:27:51Z",
+                "owner": "ivan-bilan",
+                "repo": "The-Microservices-Pandect",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitOps:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ AutoSpotting",
+              "description": "open source spot market automation tool for EC2 [GitHub, 2115 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63696142,
+                "language": "Go",
+                "last_commit": "2026-03-03T14:00:51Z",
+                "owner": "LeanerCloud",
+                "repo": "AutoSpotting",
+                "stars": 2368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AWS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ keda",
+              "description": "Kubernetes-based Event Driven Autoscaling [GitHub, 5648 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170411418,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:09:45Z",
+                "owner": "kedacore",
+                "repo": "keda",
+                "stars": 10466
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Autoscaling"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -50,10 +627,10 @@
                 "archived": false,
                 "id": 274625369,
                 "language": "Go",
-                "last_commit": "2026-08-21T11:45:44Z",
+                "last_commit": "2026-08-24T14:26:09Z",
                 "owner": "infracost",
                 "repo": "infracost",
-                "stars": 12486
+                "stars": 12487
               }
             },
             {
@@ -70,9 +647,24 @@
                 "repo": "komiser",
                 "stars": 4138
               }
+            },
+            {
+              "node_type": "item",
+              "title": "🔙 Back to the Table of Contents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368782390,
+                "language": "Python",
+                "last_commit": "2022-12-05T08:27:51Z",
+                "owner": "ivan-bilan",
+                "repo": "The-Microservices-Pandect",
+                "stars": 67
+              }
             }
           ],
-          "description": "🔙 Back to the Table of Contents",
+          "description": null,
           "node_type": "group",
           "title": "General Tools"
         }
@@ -82,6 +674,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ vitess",
+              "description": "Canary, A/B Testing and Blue/Green deployments for Kubernetes [GitHub, 3943 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149515625,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:28:14Z",
+                "owner": "fluxcd",
+                "repo": "flagger",
+                "stars": 5394
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MySQL"
+        },
         {
           "children": [
             {
@@ -130,10 +744,10 @@
                 "archived": false,
                 "id": 6358188,
                 "language": "Java",
-                "last_commit": "2026-08-23T06:06:35Z",
+                "last_commit": "2026-08-24T13:58:03Z",
                 "owner": "apache",
                 "repo": "druid",
-                "stars": 14045
+                "stars": 14047
               }
             },
             {
@@ -145,16 +759,38 @@
                 "archived": false,
                 "id": 19961085,
                 "language": "Java",
-                "last_commit": "2026-08-23T03:50:49Z",
+                "last_commit": "2026-08-24T11:13:48Z",
                 "owner": "apache",
                 "repo": "pinot",
-                "stars": 6125
+                "stars": 6126
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "OLAP - Online Analytical Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🔙 Back to the Table of Contents",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368782390,
+                "language": "Python",
+                "last_commit": "2022-12-05T08:27:51Z",
+                "owner": "ivan-bilan",
+                "repo": "The-Microservices-Pandect",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object Storage"
         }
       ],
       "title": "Databases and Operators"
@@ -196,7 +832,7 @@
       "title": "Examples and Learning Resources"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -210,7 +846,7 @@
             "last_commit": "2026-08-20T16:14:13Z",
             "owner": "serverless",
             "repo": "serverless",
-            "stars": 46917
+            "stars": 46918
           }
         },
         {
@@ -225,7 +861,7 @@
             "last_commit": "2026-07-02T09:09:13Z",
             "owner": "openfaas",
             "repo": "faas",
-            "stars": 26229
+            "stars": 26233
           }
         },
         {
@@ -237,10 +873,10 @@
             "archived": false,
             "id": 192632000,
             "language": "Go",
-            "last_commit": "2026-08-21T20:19:47Z",
+            "last_commit": "2026-08-24T14:36:57Z",
             "owner": "dapr",
             "repo": "dapr",
-            "stars": 26028
+            "stars": 26030
           }
         },
         {
@@ -270,7 +906,7 @@
             "last_commit": "2024-03-15T07:24:56Z",
             "owner": "apex",
             "repo": "up",
-            "stars": 8793
+            "stars": 8792
           }
         },
         {
@@ -282,10 +918,25 @@
             "archived": false,
             "id": 91797088,
             "language": "Go",
-            "last_commit": "2026-08-19T16:04:25Z",
+            "last_commit": "2026-08-24T13:25:27Z",
             "owner": "nuclio",
             "repo": "nuclio",
-            "stars": 5748
+            "stars": 5749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
           }
         }
       ],
@@ -306,7 +957,7 @@
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
             "repo": "tfsec",
-            "stars": 7031
+            "stars": 7032
           }
         },
         {
@@ -336,7 +987,7 @@
             "last_commit": "2025-02-03T12:03:19Z",
             "owner": "cyberark",
             "repo": "kubesploit",
-            "stars": 1226
+            "stars": 1225
           }
         }
       ],
@@ -354,10 +1005,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T20:33:52Z",
+            "last_commit": "2026-08-24T14:46:10Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14657
+            "stars": 14666
           }
         },
         {
@@ -369,10 +1020,10 @@
             "archived": false,
             "id": 66474729,
             "language": "Python",
-            "last_commit": "2026-08-22T20:33:52Z",
+            "last_commit": "2026-08-24T14:46:10Z",
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14657
+            "stars": 14666
           }
         },
         {
@@ -387,7 +1038,7 @@
             "last_commit": "2026-08-18T08:46:23Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8148
+            "stars": 8150
           }
         }
       ],
@@ -405,10 +1056,10 @@
             "archived": false,
             "id": 40684033,
             "language": "Go",
-            "last_commit": "2026-08-17T17:56:38Z",
+            "last_commit": "2026-08-24T09:19:35Z",
             "owner": "getsops",
             "repo": "sops",
-            "stars": 22899
+            "stars": 22906
           }
         },
         {
@@ -423,7 +1074,7 @@
             "last_commit": "2026-08-20T08:57:38Z",
             "owner": "bitnami",
             "repo": "sealed-secrets",
-            "stars": 9256
+            "stars": 9257
           }
         },
         {
@@ -438,7 +1089,7 @@
             "last_commit": "2025-12-30T11:28:54Z",
             "owner": "99designs",
             "repo": "aws-vault",
-            "stars": 8985
+            "stars": 8984
           }
         }
       ],
@@ -459,7 +1110,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44027
+            "stars": 44029
           }
         },
         {
@@ -471,10 +1122,10 @@
             "archived": false,
             "id": 40916314,
             "language": "Go",
-            "last_commit": "2026-08-20T04:03:26Z",
+            "last_commit": "2026-08-24T04:04:36Z",
             "owner": "dexidp",
             "repo": "dex",
-            "stars": 11054
+            "stars": 11056
           }
         },
         {
@@ -511,7 +1162,7 @@
       "title": "Auth, API Gateways etc."
     },
     {
-      "description": "🔙 Back to the Table of Contents",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -540,7 +1191,22 @@
             "last_commit": "2026-03-26T04:59:18Z",
             "owner": "0xInfection",
             "repo": "Awesome-WAF",
-            "stars": 7589
+            "stars": 7590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
           }
         }
       ],
@@ -561,7 +1227,7 @@
             "last_commit": "2023-09-21T14:37:01Z",
             "owner": "hobby-kube",
             "repo": "guide",
-            "stars": 5657
+            "stars": 5656
           }
         },
         {
@@ -597,7 +1263,7 @@
             "last_commit": "2025-12-27T14:22:30Z",
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84234
+            "stars": 84257
           }
         },
         {
@@ -617,6 +1283,42 @@
         }
       ],
       "title": "DevOps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Docker Curriculum",
+          "description": "comprehensive tutorial on getting started with Docker [GitHub, 4892 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47304932,
+            "language": "CSS",
+            "last_commit": "2026-08-12T01:12:01Z",
+            "owner": "prakhar1989",
+            "repo": "docker-curriculum",
+            "stars": 6087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Docker"
     },
     {
       "description": null,
@@ -648,14 +1350,14 @@
             "last_commit": "2026-08-23T09:51:59Z",
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 8970
+            "stars": 8971
           }
         }
       ],
       "title": "Additional Tooling"
     },
     {
-      "description": "🔙 Back to the Table of Contents",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -669,7 +1371,7 @@
             "last_commit": "2025-05-25T06:03:59Z",
             "owner": "geerlingguy",
             "repo": "ansible-for-devops",
-            "stars": 9870
+            "stars": 9869
           }
         },
         {
@@ -685,6 +1387,21 @@
             "owner": "geerlingguy",
             "repo": "ansible-for-kubernetes",
             "stars": 731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔙 Back to the Table of Contents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 368782390,
+            "language": "Python",
+            "last_commit": "2022-12-05T08:27:51Z",
+            "owner": "ivan-bilan",
+            "repo": "The-Microservices-Pandect",
+            "stars": 67
           }
         }
       ],
@@ -702,10 +1419,10 @@
             "archived": false,
             "id": 20587599,
             "language": "Java",
-            "last_commit": "2026-08-23T14:18:59Z",
+            "last_commit": "2026-08-24T14:31:09Z",
             "owner": "apache",
             "repo": "flink",
-            "stars": 26280
+            "stars": 26288
           }
         },
         {
@@ -717,7 +1434,7 @@
             "archived": false,
             "id": 50904245,
             "language": "Java",
-            "last_commit": "2026-08-23T11:43:07Z",
+            "last_commit": "2026-08-24T14:40:03Z",
             "owner": "apache",
             "repo": "beam",
             "stars": 8647
@@ -732,7 +1449,7 @@
             "archived": false,
             "id": 14135470,
             "language": "Java",
-            "last_commit": "2026-08-23T18:21:11Z",
+            "last_commit": "2026-08-24T11:44:02Z",
             "owner": "apache",
             "repo": "storm",
             "stars": 6698
@@ -740,6 +1457,55 @@
         }
       ],
       "title": "Streaming Frameworks / Engines"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ distroless",
+          "description": "Language focused docker images, minus the operating system [GitHub, 14182 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88674404,
+            "language": "Starlark",
+            "last_commit": "2026-08-21T22:47:23Z",
+            "owner": "GoogleContainerTools",
+            "repo": "distroless",
+            "stars": 23023
+          }
+        }
+      ],
+      "title": "Effective Containerization"
+    },
+    {
+      "description": "Load Shedding is used to prevent your microservices from an outage by reducing non-essential requests.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "⭐ Concurrency Limits",
+              "description": "TCP congestion control to auto-detect concurrency limits for services [GitHub, 2836 stars]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113899964,
+                "language": "Java",
+                "last_commit": "2026-01-16T00:05:22Z",
+                "owner": "Netflix",
+                "repo": "concurrency-limits",
+                "stars": 3597
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        }
+      ],
+      "title": "Load Shedding"
     },
     {
       "description": null,
@@ -758,7 +1524,7 @@
                 "last_commit": "2026-03-23T08:52:01Z",
                 "owner": "localstack",
                 "repo": "localstack",
-                "stars": 65149
+                "stars": 65148
               }
             },
             {
@@ -773,7 +1539,7 @@
                 "last_commit": "2026-08-22T18:51:50Z",
                 "owner": "getmoto",
                 "repo": "moto",
-                "stars": 8622
+                "stars": 8624
               }
             },
             {
@@ -803,7 +1569,7 @@
                 "last_commit": "2026-08-14T14:45:25Z",
                 "owner": "dherault",
                 "repo": "serverless-offline",
-                "stars": 5260
+                "stars": 5259
               }
             }
           ],
@@ -813,10 +1579,73 @@
         }
       ],
       "title": "Testing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ Empire",
+          "description": "PaaS built on top of Amazon EC2 Container Service with Heroku like workflow [GitHub, 2672 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30091667,
+            "language": "Go",
+            "last_commit": "2023-11-25T17:16:08Z",
+            "owner": "remind101",
+            "repo": "empire",
+            "stars": 2675
+          }
+        }
+      ],
+      "title": "PaaS - Platform-as-a-service"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ CNI",
+          "description": "networking for Linux containers [GitHub, 4517 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33429211,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:47:07Z",
+            "owner": "containernetworking",
+            "repo": "cni",
+            "stars": 6101
+          }
+        }
+      ],
+      "title": "Container Network Interface (CNI)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "⭐ strimzi",
+          "description": "Apache Kafka running on Kubernetes [GitHub, 3545 stars]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58194180,
+            "language": "Java",
+            "last_commit": "2026-08-24T12:26:46Z",
+            "owner": "strimzi",
+            "repo": "strimzi-kafka-operator",
+            "stars": 5915
+          }
+        }
+      ],
+      "title": "Kafka"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:44:17.896Z",
+    "last_updated": "2026-08-24T14:47:32.621Z",
     "original_repository": "ivan-bilan/The-Microservices-Pandect",
     "original_repository_id": 368782390,
     "original_repository_sha": "23a3330b79b96c4251b4ede2bff3eaec554b5d33",
