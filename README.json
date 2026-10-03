@@ -5,516 +5,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Essential Reading",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Resources",
-          "description": ", Platforms",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Podcasts",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "YouTube Channels",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Observability",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Alerting",
-          "description": ", Visualizing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Deployment",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "General Tools",
-          "description": ", CI/CD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Cost Optimization",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Stateful Workloads",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Serverless",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tools and Frameworks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Security",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Learning Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Kubernetes",
-          "description": ", DevOps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Infrastructure as Code",
-          "description": "-",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Other Topics",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Streaming",
-          "description": ", Testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "⭐ How they AWS",
           "description": "curated collection of resources on how organizations use AWS [GitHub, 574 stars]",
           "children": [],
@@ -607,62 +97,6 @@
             "repo": "cloud-native-app",
             "stars": 7,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
         }
@@ -778,8 +212,8 @@
             "id": 129717717,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T21:10:46Z",
-            "open_issues": 1041,
+            "last_commit": "2026-10-03T03:09:46Z",
+            "open_issues": 1040,
             "owner": "grafana",
             "repo": "loki",
             "stars": 28986,
@@ -812,11 +246,11 @@
             "id": 15111821,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T22:04:10Z",
-            "open_issues": 3315,
+            "last_commit": "2026-10-03T03:05:13Z",
+            "open_issues": 3309,
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 77041,
+            "stars": 77045,
             "topics": [
               "alerting",
               "analytics",
@@ -833,34 +267,6 @@
               "mysql",
               "postgres",
               "prometheus"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
             ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
@@ -883,7 +289,7 @@
             "id": 43613404,
             "language": "Jinja",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T02:43:21Z",
+            "last_commit": "2026-10-03T02:47:29Z",
             "open_issues": 204,
             "owner": "kubernetes-sigs",
             "repo": "kubespray",
@@ -981,34 +387,6 @@
                 ]
               },
               "first_seen": "2026-08-29T01:43:39.806Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔙 Back to the Table of Contents",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-                "homepage": null,
-                "id": 368782390,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2022-12-05T08:27:51Z",
-                "open_issues": 0,
-                "owner": "ivan-bilan",
-                "repo": "The-Microservices-Pandect",
-                "stars": 67,
-                "topics": [
-                  "awesome-list",
-                  "aws",
-                  "cloud",
-                  "kubernetes",
-                  "microservices",
-                  "pandect"
-                ]
-              },
-              "first_seen": "2026-08-29T01:43:39.806Z"
             }
           ],
           "description": null,
@@ -1076,11 +454,11 @@
                 "id": 170411418,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T13:23:34Z",
+                "last_commit": "2026-10-02T22:46:14Z",
                 "open_issues": 255,
                 "owner": "kedacore",
                 "repo": "keda",
-                "stars": 10573,
+                "stars": 10575,
                 "topics": [
                   "autoscaling",
                   "event-driven",
@@ -1115,7 +493,7 @@
                 "open_issues": 23,
                 "owner": "infracost",
                 "repo": "infracost",
-                "stars": 12547,
+                "stars": 12549,
                 "topics": [
                   "aws",
                   "azure",
@@ -1169,34 +547,6 @@
                   "oci",
                   "open-source",
                   "tencent"
-                ]
-              },
-              "first_seen": "2026-08-29T01:43:39.806Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🔙 Back to the Table of Contents",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-                "homepage": null,
-                "id": 368782390,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2022-12-05T08:27:51Z",
-                "open_issues": 0,
-                "owner": "ivan-bilan",
-                "repo": "The-Microservices-Pandect",
-                "stars": 67,
-                "topics": [
-                  "awesome-list",
-                  "aws",
-                  "cloud",
-                  "kubernetes",
-                  "microservices",
-                  "pandect"
                 ]
               },
               "first_seen": "2026-08-29T01:43:39.806Z"
@@ -1343,7 +693,7 @@
                 "id": 6358188,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:52:37Z",
+                "last_commit": "2026-10-03T03:18:04Z",
                 "open_issues": 772,
                 "owner": "apache",
                 "repo": "druid",
@@ -1370,7 +720,7 @@
                 "open_issues": 1348,
                 "owner": "apache",
                 "repo": "pinot",
-                "stars": 6146,
+                "stars": 6147,
                 "topics": [
                   "java"
                 ]
@@ -1381,41 +731,6 @@
           "description": null,
           "node_type": "group",
           "title": "OLAP - Online Analytical Processing"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🔙 Back to the Table of Contents",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-                "homepage": null,
-                "id": 368782390,
-                "language": "Python",
-                "license": "CC0-1.0",
-                "last_commit": "2022-12-05T08:27:51Z",
-                "open_issues": 0,
-                "owner": "ivan-bilan",
-                "repo": "The-Microservices-Pandect",
-                "stars": 67,
-                "topics": [
-                  "awesome-list",
-                  "aws",
-                  "cloud",
-                  "kubernetes",
-                  "microservices",
-                  "pandect"
-                ]
-              },
-              "first_seen": "2026-08-29T01:43:39.806Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Object Storage"
         }
       ],
       "title": "Databases and Operators"
@@ -1559,11 +874,11 @@
             "id": 192632000,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:20:12Z",
-            "open_issues": 462,
+            "last_commit": "2026-10-03T01:46:17Z",
+            "open_issues": 461,
             "owner": "dapr",
             "repo": "dapr",
-            "stars": 26123,
+            "stars": 26124,
             "topics": [
               "containers",
               "event-driven",
@@ -1676,34 +991,6 @@
               "go",
               "kubernetes",
               "serverless"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
             ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
@@ -1845,10 +1132,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:22:52Z",
-            "open_issues": 390,
+            "open_issues": 391,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14914,
+            "stars": 14917,
             "topics": [
               "aws",
               "azure",
@@ -1887,10 +1174,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T12:22:52Z",
-            "open_issues": 390,
+            "open_issues": 391,
             "owner": "prowler-cloud",
             "repo": "prowler",
-            "stars": 14914,
+            "stars": 14917,
             "topics": [
               "aws",
               "azure",
@@ -2062,7 +1349,7 @@
             "open_issues": 222,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44234,
+            "stars": 44235,
             "topics": [
               "ai",
               "ai-gateway",
@@ -2223,7 +1510,7 @@
             "open_issues": 2,
             "owner": "0xInfection",
             "repo": "Awesome-WAF",
-            "stars": 7630,
+            "stars": 7631,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2238,34 +1525,6 @@
               "waf-test",
               "waf-testing",
               "web-application-firewall"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
             ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
@@ -2375,7 +1634,7 @@
             "open_issues": 56,
             "owner": "bregman-arie",
             "repo": "devops-exercises",
-            "stars": 84748,
+            "stars": 84749,
             "topics": [
               "ansible",
               "aws",
@@ -2474,34 +1733,6 @@
             ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
         }
       ],
       "title": "Docker"
@@ -2525,7 +1756,7 @@
             "open_issues": 0,
             "owner": "GoogleCloudPlatform",
             "repo": "terraformer",
-            "stars": 14540,
+            "stars": 14541,
             "topics": [
               "aws",
               "cloud",
@@ -2557,7 +1788,7 @@
             "open_issues": 183,
             "owner": "bridgecrewio",
             "repo": "checkov",
-            "stars": 9050,
+            "stars": 9052,
             "topics": [
               "aws",
               "aws-security",
@@ -2647,34 +1878,6 @@
             ]
           },
           "first_seen": "2026-08-29T01:43:39.806Z"
-        },
-        {
-          "node_type": "item",
-          "title": "🔙 Back to the Table of Contents",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A comprehensive reference for all topics related to building and maintaining microservices",
-            "homepage": null,
-            "id": 368782390,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2022-12-05T08:27:51Z",
-            "open_issues": 0,
-            "owner": "ivan-bilan",
-            "repo": "The-Microservices-Pandect",
-            "stars": 67,
-            "topics": [
-              "awesome-list",
-              "aws",
-              "cloud",
-              "kubernetes",
-              "microservices",
-              "pandect"
-            ]
-          },
-          "first_seen": "2026-08-29T01:43:39.806Z"
         }
       ],
       "title": "Examples and Learning Resources"
@@ -2694,11 +1897,11 @@
             "id": 20587599,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:21:33Z",
-            "open_issues": 385,
+            "last_commit": "2026-10-03T04:09:46Z",
+            "open_issues": 383,
             "owner": "apache",
             "repo": "flink",
-            "stars": 26376,
+            "stars": 26377,
             "topics": [
               "big-data",
               "flink",
@@ -2722,7 +1925,7 @@
             "id": 50904245,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:20:53Z",
+            "last_commit": "2026-10-03T03:22:50Z",
             "open_issues": 3883,
             "owner": "apache",
             "repo": "beam",
@@ -2753,7 +1956,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:56:54Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "apache",
             "repo": "storm",
             "stars": 6697,
@@ -2785,10 +1988,10 @@
             "language": "Starlark",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T20:54:58Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "GoogleContainerTools",
             "repo": "distroless",
-            "stars": 23116,
+            "stars": 23117,
             "topics": [
               "bazel",
               "docker"
@@ -2879,8 +2082,8 @@
                 "id": 8277372,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:37:07Z",
-                "open_issues": 89,
+                "last_commit": "2026-10-03T02:56:49Z",
+                "open_issues": 88,
                 "owner": "getmoto",
                 "repo": "moto",
                 "stars": 8690,
@@ -3062,7 +2265,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:07:26.765Z",
+    "last_updated": "2026-10-03T04:29:42.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A comprehensive reference for all topics related to building and maintaining microservices",
