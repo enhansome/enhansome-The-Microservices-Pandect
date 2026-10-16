@@ -70,7 +70,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Roadmaps
 
-* ⭐ [Containers Roadmap](https://github.com/aws/containers-roadmap) ⭐ 5,364 | 🐛 1,597 | 🌐 Shell | 📅 2025-03-25 - public roadmap for AWS container services \[GitHub, 4684 stars]
+* ⭐ [Containers Roadmap](https://github.com/aws/containers-roadmap) ⭐ 5,364 | 🐛 1,596 | 🌐 Shell | 📅 2025-03-25 - public roadmap for AWS container services \[GitHub, 4684 stars]
 
 #### From the Monolith to Microservices
 
@@ -107,7 +107,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### General Monitoring
 
-* ⭐ [cortex](https://github.com/cortexproject/cortex) ⭐ 5,878 | 🐛 337 | 🌐 Go | 📅 2026-10-15 - multi-tenant, long term Prometheus \[GitHub, 4910 stars]
+* ⭐ [cortex](https://github.com/cortexproject/cortex) ⭐ 5,878 | 🐛 338 | 🌐 Go | 📅 2026-10-16 - multi-tenant, long term Prometheus \[GitHub, 4910 stars]
 * ⭐ [kubewatch](https://github.com/bitnami-labs/kubewatch) ⚠️ Archived - Watch k8s events and trigger Handlers \[GitHub, 2416 stars]
 * ⭐ [Prometheus](https://prometheus.io) - open-source systems monitoring and alerting toolkit
 * ⭐ [Prometheus Federation](https://prometheus.io/docs/prometheus/latest/federation/)
@@ -123,11 +123,11 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### Logging
 
-* ⭐ [loki](https://github.com/grafana/loki) ⭐ 29,027 | 🐛 1,067 | 🌐 Go | 📅 2026-10-15 - horizontally-scalable, highly-available, multi-tenant log aggregation system \[GitHub, 17580 stars]
+* ⭐ [loki](https://github.com/grafana/loki) ⭐ 29,031 | 🐛 1,057 | 🌐 Go | 📅 2026-10-16 - horizontally-scalable, highly-available, multi-tenant log aggregation system \[GitHub, 17580 stars]
 
 #### Visualizing
 
-* ⭐ [grafana](https://github.com/grafana/grafana) ⭐ 77,299 | 🐛 3,333 | 🌐 TypeScript | 📅 2026-10-15 - observability and data visualization platform \[GitHub, 52288 stars]
+* ⭐ [grafana](https://github.com/grafana/grafana) ⭐ 77,319 | 🐛 3,336 | 🌐 TypeScript | 📅 2026-10-16 - observability and data visualization platform \[GitHub, 52288 stars]
 
 ## ![Deployment](./Resources/Images/deployment.png)
 
@@ -135,7 +135,7 @@ This pandect (πανδέκτης is Ancient Greek for encyclopedia) was created 
 
 #### General Deployment Tools
 
-* ⭐ [kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐ 18,797 | 🐛 202 | 🌐 Jinja | 📅 2026-10-15 - Deploy a Production Ready Kubernetes Cluster \[GitHub, 13125 stars]
+* ⭐ [kubespray](https://github.com/kubernetes-sigs/kubespray) ⭐ 18,797 | 🐛 203 | 🌐 Jinja | 📅 2026-10-16 - Deploy a Production Ready Kubernetes Cluster \[GitHub, 13125 stars]
 
 #### Zero Downtime Deploys
 
@@ -158,7 +158,7 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ##### Tools:
 
-* ⭐ [flagger](https://github.com/fluxcd/flagger) ⭐ 5,418 | 🐛 397 | 🌐 Go | 📅 2026-09-21 - Canary, A/B Testing and Blue/Green deployments for Kubernetes \[GitHub, 3943 stars]
+* ⭐ [flagger](https://github.com/fluxcd/flagger) ⭐ 5,418 | 🐛 407 | 🌐 Go | 📅 2026-09-21 - Canary, A/B Testing and Blue/Green deployments for Kubernetes \[GitHub, 3943 stars]
 
 #### CI/CD
 
@@ -186,12 +186,12 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ##### Autoscaling
 
-* ⭐ [keda](https://github.com/kedacore/keda) ⭐ 10,638 | 🐛 268 | 🌐 Go | 📅 2026-10-15 - Kubernetes-based Event Driven Autoscaling \[GitHub, 5648 stars]
+* ⭐ [keda](https://github.com/kedacore/keda) ⭐ 10,644 | 🐛 271 | 🌐 Go | 📅 2026-10-16 - Kubernetes-based Event Driven Autoscaling \[GitHub, 5648 stars]
 
 ##### General Tools
 
-* ⭐ [Infracost](https://github.com/infracost/infracost) ⭐ 12,565 | 🐛 4 | 🌐 Go | 📅 2026-10-15 - Cloud cost estimates for Terraform in your CLI and pull requests \[GitHub, 8185 stars]
-* ⭐ [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,147 | 🐛 269 | 🌐 Go | 📅 2026-09-10 - Multi-cloud environment inspector for costs and security \[GitHub, 2866 stars]
+* ⭐ [Infracost](https://github.com/infracost/infracost) ⭐ 12,565 | 🐛 2 | 🌐 Go | 📅 2026-10-15 - Cloud cost estimates for Terraform in your CLI and pull requests \[GitHub, 8185 stars]
+* ⭐ [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,149 | 🐛 269 | 🌐 Go | 📅 2026-09-10 - Multi-cloud environment inspector for costs and security \[GitHub, 2866 stars]
 
 ## ![Stateful-Workloads](./Resources/Images/stateful_workloads.png)
 
@@ -209,19 +209,19 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 ##### MySQL
 
-* ⭐ [vitess](https://github.com/fluxcd/flagger) ⭐ 5,418 | 🐛 397 | 🌐 Go | 📅 2026-09-21 - Canary, A/B Testing and Blue/Green deployments for Kubernetes \[GitHub, 3943 stars]
+* ⭐ [vitess](https://github.com/fluxcd/flagger) ⭐ 5,418 | 🐛 407 | 🌐 Go | 📅 2026-09-21 - Canary, A/B Testing and Blue/Green deployments for Kubernetes \[GitHub, 3943 stars]
 * 🔱 [MariaDB](https://mariadb.org/) - MariaDB Server: The open source relational database
 
 ##### PostgreSQL
 
-* ⭐ [Zalando Operator](https://github.com/zalando/postgres-operator) ⭐ 5,255 | 🐛 548 | 🌐 Go | 📅 2026-10-13 \[GitHub, 2907 stars]
-* ⭐ [CrunchyData Operator](https://github.com/CrunchyData/postgres-operator) ⭐ 4,452 | 🐛 171 | 🌐 Go | 📅 2026-10-07 \[GitHub, 3023 stars]
+* ⭐ [Zalando Operator](https://github.com/zalando/postgres-operator) ⭐ 5,256 | 🐛 548 | 🌐 Go | 📅 2026-10-13 \[GitHub, 2907 stars]
+* ⭐ [CrunchyData Operator](https://github.com/CrunchyData/postgres-operator) ⭐ 4,452 | 🐛 170 | 🌐 Go | 📅 2026-10-16 \[GitHub, 3023 stars]
 * 🔱 [Amazon Aurora](https://aws.amazon.com/rds/aurora/) \[AWS, Paid Service]
 
 ##### OLAP - Online Analytical Processing
 
-* ⭐ [Druid](https://github.com/apache/druid/) ⭐ 14,087 | 🐛 784 | 🌐 Java | 📅 2026-10-15 \[GitHub, 12190 stars]
-* ⭐ [Apache Pinot](https://pinot.apache.org/) / [Pinot on Github](https://github.com/apache/incubator-pinot) ⭐ 6,155 | 🐛 1,324 | 🌐 Java | 📅 2026-10-15 \[GitHub, 4284 stars]
+* ⭐ [Druid](https://github.com/apache/druid/) ⭐ 14,088 | 🐛 782 | 🌐 Java | 📅 2026-10-16 \[GitHub, 12190 stars]
+* ⭐ [Apache Pinot](https://pinot.apache.org/) / [Pinot on Github](https://github.com/apache/incubator-pinot) ⭐ 6,158 | 🐛 1,312 | 🌐 Java | 📅 2026-10-16 \[GitHub, 4284 stars]
 * 📙 [What is OLAP? Cube, Operations & Types in Data Warehouse](https://www.guru99.com/online-analytical-processing.html) \[Blog, Feb 2018]
 * 📙 [Comparison of ClickHouse, Druid, and Pinot](https://leventov.medium.com/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) \[Blog]
 * ⭐ [ClickHouse](https://clickhouse.tech/)
@@ -247,12 +247,12 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 #### Tools & Frameworks
 
-* ⭐ [serverless](https://github.com/serverless/serverless) ⭐ 46,924 | 🐛 1,208 | 🌐 JavaScript | 📅 2026-10-15 - Serverless Framework using AWS Lambda, Azure Functions, Google CloudFunctions \[GitHub, 43750 stars]
-* ⭐ [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,249 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Serverless Functions Made Simple \[GitHub, 22320 stars]
-* ⭐ [Dapr](https://github.com/dapr/dapr) ⭐ 26,146 | 🐛 466 | 🌐 Go | 📅 2026-10-15 - portable, serverless, event-driven runtime for stateless and stateful microservices \[GitHub, 19789 stars]
-* ⭐ [Chalice](https://github.com/aws/chalice) ⭐ 11,056 | 🐛 494 | 🌐 Python | 📅 2026-10-15 - Python Serverless Microframework for AWS \[GitHub, 9297 stars]
+* ⭐ [serverless](https://github.com/serverless/serverless) ⭐ 46,924 | 🐛 1,212 | 🌐 JavaScript | 📅 2026-10-16 - Serverless Framework using AWS Lambda, Azure Functions, Google CloudFunctions \[GitHub, 43750 stars]
+* ⭐ [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,251 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Serverless Functions Made Simple \[GitHub, 22320 stars]
+* ⭐ [Dapr](https://github.com/dapr/dapr) ⭐ 26,149 | 🐛 453 | 🌐 Go | 📅 2026-10-16 - portable, serverless, event-driven runtime for stateless and stateful microservices \[GitHub, 19789 stars]
+* ⭐ [Chalice](https://github.com/aws/chalice) ⭐ 11,056 | 🐛 497 | 🌐 Python | 📅 2026-10-15 - Python Serverless Microframework for AWS \[GitHub, 9297 stars]
 * ⭐ [Up](https://github.com/apex/up) ⭐ 8,794 | 🐛 295 | 🌐 Go | 📅 2024-03-15 - deploy infinitely scalable serverless apps, apis, and sites \[GitHub, 8638 stars]
-* ⭐ [Nuclio](https://github.com/nuclio/nuclio) ⭐ 5,764 | 🐛 119 | 🌐 Go | 📅 2026-10-15 - High-Performance Serverless event and data processing platform \[GitHub, 4649 stars]
+* ⭐ [Nuclio](https://github.com/nuclio/nuclio) ⭐ 5,766 | 🐛 119 | 🌐 Go | 📅 2026-10-16 - High-Performance Serverless event and data processing platform \[GitHub, 4649 stars]
 
 ## ![Security](./Resources/Images/security.png)
 
@@ -261,20 +261,20 @@ There are industry proven strategies to make sure your deploys don't cause any d
 #### General Tools
 
 * ⭐ [tfsec](https://github.com/tfsec/tfsec) ⭐ 7,051 | 🐛 18 | 🌐 Go | 📅 2026-03-25 - Security scanner for your Terraform code \[GitHub, 5315 stars]
-* ⭐ [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,147 | 🐛 269 | 🌐 Go | 📅 2026-09-10 - Multi-cloud environment inspector for costs and security \[GitHub, 2866 stars]
+* ⭐ [Komiser](https://github.com/mlabouardy/komiser) ⭐ 4,149 | 🐛 269 | 🌐 Go | 📅 2026-09-10 - Multi-cloud environment inspector for costs and security \[GitHub, 2866 stars]
 * ⭐ [kubesploit](https://github.com/cyberark/kubesploit) ⭐ 1,224 | 🐛 0 | 🌐 Go | 📅 2025-02-03 - Cross-platform post-exploitation HTTP/2 Command & Control server \[GitHub, 940 stars]
 * 🔱 [consul](https://www.consul.io) - Consul automates networking for simple and secure application delivery
 
 #### Security Audit Tools
 
-* ⭐ [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,037 | 🐛 470 | 🌐 Python | 📅 2026-10-15 - security tool to perform AWS security best practices assessments \[GitHub, 6957 stars]
-* ⭐ [ScoutSuite](https://github.com/toniblyx/prowler) ⭐ 15,037 | 🐛 470 | 🌐 Python | 📅 2026-10-15 - Multi-Cloud Security Auditing Tool \[GitHub, 6957 stars]
-* ⭐ [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,227 | 🐛 108 | 🌐 Go | 📅 2026-10-05 - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark \[GitHub, 5306 stars]
+* ⭐ [Prowler](https://github.com/toniblyx/prowler) ⭐ 15,044 | 🐛 475 | 🌐 Python | 📅 2026-10-16 - security tool to perform AWS security best practices assessments \[GitHub, 6957 stars]
+* ⭐ [ScoutSuite](https://github.com/toniblyx/prowler) ⭐ 15,044 | 🐛 475 | 🌐 Python | 📅 2026-10-16 - Multi-Cloud Security Auditing Tool \[GitHub, 6957 stars]
+* ⭐ [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,226 | 🐛 108 | 🌐 Go | 📅 2026-10-05 - Checks usage of security best practices as defined in the CIS Kubernetes Benchmark \[GitHub, 5306 stars]
 
 #### Secrets
 
-* ⭐ [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) ⭐ 23,400 | 🐛 457 | 🌐 Go | 📅 2026-10-13 - Simple and flexible tool for managing secrets on any platform \[GitHub, 11257 stars]
-* ⭐ [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,303 | 🐛 66 | 🌐 Go | 📅 2026-10-15 - A Kubernetes controller and tool for one-way encrypted Secrets \[GitHub, 5597 stars]
+* ⭐ [SOPS: Secrets OPerationS](https://github.com/mozilla/sops) ⭐ 23,415 | 🐛 459 | 🌐 Go | 📅 2026-10-13 - Simple and flexible tool for managing secrets on any platform \[GitHub, 11257 stars]
+* ⭐ [sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) ⭐ 9,303 | 🐛 67 | 🌐 Go | 📅 2026-10-15 - A Kubernetes controller and tool for one-way encrypted Secrets \[GitHub, 5597 stars]
 * ⭐ [aws-vault](https://github.com/99designs/aws-vault) ⭐ 9,001 | 🐛 2 | 🌐 Go | 📅 2025-12-30 - securely store and access AWS credentials in development environments \[GitHub, 6927 stars]
 * 🔱 [Vault](https://www.vaultproject.io) - Manage Secrets and Protect Sensitive Data
 
@@ -286,15 +286,15 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 #### Auth, API Gateways etc.
 
-* ⭐ [Kong](https://github.com/Kong/kong) ⭐ 44,271 | 🐛 221 | 🌐 Lua | 📅 2026-10-14 - Cloud-Native API Gateway \[GitHub, 33318 stars]
-* ⭐ [Dex](https://github.com/dexidp/dex) ⭐ 11,191 | 🐛 537 | 🌐 Go | 📅 2026-10-14 - OpenID Connect (OIDC) identity and OAuth 2.0 provider \[GitHub, 7536 stars]
-* ⭐ [Grant](https://github.com/simov/grant) ⭐ 4,165 | 🐛 43 | 🌐 JavaScript | 📅 2025-02-04 - OAuth Proxy \[GitHub, 3743 stars]
-* ⭐ [Gloo Edge](https://github.com/solo-io/gloo) ⭐ 171 | 🐛 1,886 | 🌐 Go | 📅 2026-10-15 - Kubernetes-native API Gateway Built on Envoy \[GitHub, 3601 stars]
+* ⭐ [Kong](https://github.com/Kong/kong) ⭐ 44,274 | 🐛 222 | 🌐 Lua | 📅 2026-10-14 - Cloud-Native API Gateway \[GitHub, 33318 stars]
+* ⭐ [Dex](https://github.com/dexidp/dex) ⭐ 11,195 | 🐛 544 | 🌐 Go | 📅 2026-10-16 - OpenID Connect (OIDC) identity and OAuth 2.0 provider \[GitHub, 7536 stars]
+* ⭐ [Grant](https://github.com/simov/grant) ⭐ 4,166 | 🐛 43 | 🌐 JavaScript | 📅 2025-02-04 - OAuth Proxy \[GitHub, 3743 stars]
+* ⭐ [Gloo Edge](https://github.com/solo-io/gloo) ⭐ 171 | 🐛 1,885 | 🌐 Go | 📅 2026-10-16 - Kubernetes-native API Gateway Built on Envoy \[GitHub, 3601 stars]
 
 #### Other
 
-* ⭐ [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,981 | 🐛 28 | 📅 2023-04-03 - Learn ethical hacking \[GitHub, 11035 stars]
-* ⭐ [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) ⭐ 7,648 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - Everything about web-application firewalls (WAF) \[GitHub, 4759 stars]
+* ⭐ [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) ⭐ 13,979 | 🐛 28 | 📅 2023-04-03 - Learn ethical hacking \[GitHub, 11035 stars]
+* ⭐ [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) ⭐ 7,649 | 🐛 2 | 🌐 Python | 📅 2026-08-26 - Everything about web-application firewalls (WAF) \[GitHub, 4759 stars]
 
 ## ![Learning Resources](./Resources/Images/learning_resources.png)
 
@@ -317,12 +317,12 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 #### DevOps
 
-* ⭐ [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,870 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - questions and exercises on technical topics related to DevOps and SRE \[GitHub, 33396 stars]
-* ⭐ [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,364 | 🐛 11 | 🌐 HTML | 📅 2026-05-22 - from basic to advanced with Interview Questions and Notes \[GitHub, 5423 stars]
+* ⭐ [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) ⭐ 84,881 | 🐛 56 | 🌐 Python | 📅 2025-12-27 - questions and exercises on technical topics related to DevOps and SRE \[GitHub, 33396 stars]
+* ⭐ [DevOps Guide](https://github.com/Tikam02/DevOps-Guide) ⭐ 9,365 | 🐛 11 | 🌐 HTML | 📅 2026-05-22 - from basic to advanced with Interview Questions and Notes \[GitHub, 5423 stars]
 
 #### Docker
 
-* ⭐ [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,115 | 🐛 21 | 🌐 CSS | 📅 2026-10-08 - comprehensive tutorial on getting started with Docker \[GitHub, 4892 stars]
+* ⭐ [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ⭐ 6,116 | 🐛 22 | 🌐 CSS | 📅 2026-10-16 - comprehensive tutorial on getting started with Docker \[GitHub, 4892 stars]
 
 ## ![Infrastructure as Code](./Resources/Images/infra_as_code.png)
 
@@ -338,17 +338,17 @@ There are industry proven strategies to make sure your deploys don't cause any d
 * 🔱 [CFEngine](https://cfengine.com/) - automate your infrastructure, security & compliance
 * ⭐ [Ansible](https://www.ansible.com/) - automation across open hybrid cloud deployments
 * 🔱 [CHEF](https://www.chef.io/products/chef-infra) - Policy-Based Configuration Management Automation Architecture
-* ⭐ [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,791 | 🐛 2,495 | 🌐 Go | 📅 2026-10-15 - Modern Infrastructure as Code. Any cloud, any language \[GitHub, 14215 stars]
+* ⭐ [Pulumi](https://github.com/pulumi/pulumi) ⭐ 25,791 | 🐛 2,497 | 🌐 Go | 📅 2026-10-16 - Modern Infrastructure as Code. Any cloud, any language \[GitHub, 14215 stars]
 
 #### Additional Tooling
 
 * ⭐ [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) ⚠️ Archived - CLI tool to generate terraform files from existing infrastructure (reverse Terraform)  \[GitHub, 8970 stars]
-* ⭐ [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,072 | 🐛 198 | 🌐 Python | 📅 2026-10-15 - static code analysis tool for infrastructure-as-code \[GitHub, 4890 stars]
+* ⭐ [Checkov](https://github.com/bridgecrewio/checkov) ⭐ 9,073 | 🐛 199 | 🌐 Python | 📅 2026-10-15 - static code analysis tool for infrastructure-as-code \[GitHub, 4890 stars]
 
 #### Examples and Learning Resources
 
-* ⭐ [Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,924 | 🐛 120 | 🌐 Python | 📅 2025-05-25 \[GitHub, 6378 stars]
-* ⭐ [Ansible for Kubernetes Examples](https://github.com/geerlingguy/ansible-for-kubernetes) ⭐ 736 | 🐛 53 | 🌐 Shell | 📅 2024-08-03 \[GitHub, 581 stars]
+* ⭐ [Ansible for DevOps examples](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,926 | 🐛 120 | 🌐 Python | 📅 2025-05-25 \[GitHub, 6378 stars]
+* ⭐ [Ansible for Kubernetes Examples](https://github.com/geerlingguy/ansible-for-kubernetes) ⭐ 737 | 🐛 53 | 🌐 Shell | 📅 2024-08-03 \[GitHub, 581 stars]
 
 ## ![Other](./Resources/Images/other_topics.png)
 
@@ -356,14 +356,14 @@ There are industry proven strategies to make sure your deploys don't cause any d
 
 #### Streaming Frameworks / Engines
 
-* ⭐ [Apache Flink](https://github.com/apache/flink) ⭐ 26,409 | 🐛 402 | 🌐 Java | 📅 2026-10-15 - stream processing framework \[GitHub, 20121 stars]
-* ⭐ [Apache Beam](https://github.com/apache/beam) ⭐ 8,684 | 🐛 3,875 | 🌐 Java | 📅 2026-10-15 - unified programming model for Batch and Streaming \[GitHub, 6012 stars]
-* ⭐ [Apache Storm](https://storm.apache.org/) / [Apache Storm on GitHub](https://github.com/apache/storm) ⭐ 6,695 | 🐛 49 | 🌐 Java | 📅 2026-10-14 - distributed realtime computation system \[GitHub, 6403 stars]
+* ⭐ [Apache Flink](https://github.com/apache/flink) ⭐ 26,411 | 🐛 401 | 🌐 Java | 📅 2026-10-16 - stream processing framework \[GitHub, 20121 stars]
+* ⭐ [Apache Beam](https://github.com/apache/beam) ⭐ 8,684 | 🐛 3,872 | 🌐 Java | 📅 2026-10-16 - unified programming model for Batch and Streaming \[GitHub, 6012 stars]
+* ⭐ [Apache Storm](https://storm.apache.org/) / [Apache Storm on GitHub](https://github.com/apache/storm) ⭐ 6,695 | 🐛 48 | 🌐 Java | 📅 2026-10-16 - distributed realtime computation system \[GitHub, 6403 stars]
 * 🔱 [Amazon Kinesis Streams](https://aws.amazon.com/kinesis/) \[AWS]
 
 #### Effective Containerization
 
-* ⭐ [distroless](https://github.com/GoogleContainerTools/distroless) ⭐ 23,138 | 🐛 12 | 🌐 Starlark | 📅 2026-10-15 - Language focused docker images, minus the operating system \[GitHub, 14182 stars]
+* ⭐ [distroless](https://github.com/GoogleContainerTools/distroless) ⭐ 23,142 | 🐛 12 | 🌐 Starlark | 📅 2026-10-15 - Language focused docker images, minus the operating system \[GitHub, 14182 stars]
 
 #### Load Shedding
 
@@ -377,7 +377,7 @@ Load Shedding is used to prevent your microservices from an outage by reducing n
 
 ##### Tools
 
-* ⭐ [Concurrency Limits](https://github.com/Netflix/concurrency-limits) ⭐ 3,618 | 🐛 54 | 🌐 Java | 📅 2026-01-16 - TCP congestion control to auto-detect concurrency limits for services \[GitHub, 2836 stars]
+* ⭐ [Concurrency Limits](https://github.com/Netflix/concurrency-limits) ⭐ 3,619 | 🐛 54 | 🌐 Java | 📅 2026-01-16 - TCP congestion control to auto-detect concurrency limits for services \[GitHub, 2836 stars]
 
 #### Testing
 
@@ -388,21 +388,21 @@ Load Shedding is used to prevent your microservices from an outage by reducing n
 ##### Tooling
 
 * ⭐ [LocalStack](https://github.com/localstack/localstack) ⚠️ Archived -  fully functional local AWS cloud stack \[GitHub, 44.6k stars]
-* ⭐ [Moto](https://github.com/spulec/moto) ⭐ 8,708 | 🐛 119 | 🌐 Python | 📅 2026-10-14 -  easily mock out tests based on AWS infrastructure \[GitHub, 6186 stars]
-* ⭐ [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,980 | 🐛 7 | 🌐 Go | 📅 2026-10-15 - Go library to write automated tests for your infrastructure code \[GitHub, 6494 stars]
+* ⭐ [Moto](https://github.com/spulec/moto) ⭐ 8,708 | 🐛 132 | 🌐 Python | 📅 2026-10-14 -  easily mock out tests based on AWS infrastructure \[GitHub, 6186 stars]
+* ⭐ [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,981 | 🐛 7 | 🌐 Go | 📅 2026-10-15 - Go library to write automated tests for your infrastructure code \[GitHub, 6494 stars]
 * ⭐ [Serverless Offline](https://github.com/dherault/serverless-offline) ⭐ 5,259 | 🐛 66 | 🌐 JavaScript | 📅 2026-10-05 - Emulate AWS λ and API Gateway locally \[GitHub, 4747 stars]
 
 #### PaaS - Platform-as-a-service
 
-* ⭐ [Empire](https://github.com/remind101/empire) ⭐ 2,676 | 🐛 90 | 🌐 Go | 📅 2023-11-25 - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow \[GitHub, 2672 stars]
+* ⭐ [Empire](https://github.com/remind101/empire) ⭐ 2,677 | 🐛 90 | 🌐 Go | 📅 2023-11-25 - PaaS built on top of Amazon EC2 Container Service with Heroku like workflow \[GitHub, 2672 stars]
 
 #### Container Network Interface (CNI)
 
-* ⭐ [CNI](https://github.com/containernetworking/cni) ⭐ 6,138 | 🐛 159 | 🌐 Go | 📅 2026-09-14 - networking for Linux containers \[GitHub, 4517 stars]
+* ⭐ [CNI](https://github.com/containernetworking/cni) ⭐ 6,139 | 🐛 159 | 🌐 Go | 📅 2026-09-14 - networking for Linux containers \[GitHub, 4517 stars]
 
 #### Kafka
 
-* ⭐ [strimzi](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,954 | 🐛 161 | 🌐 Java | 📅 2026-10-15 - Apache Kafka running on Kubernetes \[GitHub, 3545 stars]
+* ⭐ [strimzi](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,955 | 🐛 161 | 🌐 Java | 📅 2026-10-16 - Apache Kafka running on Kubernetes \[GitHub, 3545 stars]
 
 #### Documenting Architectural Design
 
@@ -453,4 +453,4 @@ Load Shedding is used to prevent your microservices from an outage by reducing n
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
